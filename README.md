@@ -1,2 +1,3 @@
 # Task
-This is my todays assignment for internship
+A website for an Educational Platform
+
